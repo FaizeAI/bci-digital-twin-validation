@@ -1,0 +1,52 @@
+Condition,Tier,Prevalence_Rate_Percent,Circadian_Impact_Score,Sample_Size,Predicted_Response_Rate_Percent,Effect_Size,Clinical_Significance
+Seasonal Affective Disorder,Tier 1 (Core Circadian),3.2,9.5,20,95.0,3.12,High
+Insomnia,Tier 1 (Core Circadian),8.4,9.2,20,90.0,2.50,High
+Bipolar Disorder,Tier 1 (Core Circadian),2.8,9.1,20,85.0,1.94,High
+Major Depressive Disorder,Tier 1 (Core Circadian),8.4,8.9,20,85.0,2.14,High
+Sleep Apnea,Tier 1 (Core Circadian),4.7,8.8,20,85.0,2.09,High
+Delayed Sleep Phase Disorder,Tier 1 (Core Circadian),0.17,8.7,20,85.0,1.98,High
+Advanced Sleep Phase Disorder,Tier 1 (Core Circadian),0.03,8.6,20,85.0,2.14,High
+Shift Work Sleep Disorder,Tier 1 (Core Circadian),2.0,8.5,20,85.0,1.93,High
+ADHD,Tier 2 (High Circadian),5.2,7.8,20,80.0,1.89,High
+Autism Spectrum Disorder,Tier 2 (High Circadian),1.5,7.5,20,75.0,1.78,High
+Schizoaffective Disorder,Tier 2 (High Circadian),0.3,7.2,20,70.0,1.68,Moderate
+Substance Use Disorders,Tier 2 (High Circadian),10.2,7.0,20,70.0,1.50,Moderate
+PTSD,Tier 2 (High Circadian),3.5,6.9,20,70.0,1.86,Moderate
+Borderline Personality Disorder,Tier 2 (High Circadian),0.7,6.8,20,70.0,1.82,Moderate
+Schizophrenia,Tier 2 (High Circadian),1.1,6.5,20,65.0,1.52,Moderate
+Eating Disorders,Tier 2 (High Circadian),0.9,6.2,20,65.0,1.40,Moderate
+Generalized Anxiety Disorder,Tier 3 (Moderate Circadian),3.1,5.8,20,55.0,1.24,Moderate
+Panic Disorder,Tier 3 (Moderate Circadian),2.7,5.6,20,55.0,2.16,Moderate
+Social Anxiety Disorder,Tier 3 (Moderate Circadian),7.1,5.4,20,55.0,1.47,Moderate
+OCD,Tier 3 (Moderate Circadian),1.2,5.2,20,55.0,1.77,Moderate
+Persistent Depressive Disorder,Tier 3 (Moderate Circadian),1.5,5.0,20,55.0,1.18,Moderate
+Dissociative Identity Disorder,Tier 3 (Moderate Circadian),0.2,4.8,20,55.0,1.56,Moderate
+Antisocial Personality Disorder,Tier 3 (Moderate Circadian),0.6,4.6,20,55.0,1.60,Moderate
+Narcissistic Personality Disorder,Tier 3 (Moderate Circadian),1.0,4.4,20,55.0,1.36,Moderate
+Avoidant Personality Disorder,Tier 3 (Moderate Circadian),1.2,4.2,20,50.0,1.22,Moderate
+Agoraphobia,Tier 3 (Moderate Circadian),0.8,4.0,20,50.0,1.15,Moderate
+Adjustment Disorder,Tier 3 (Moderate Circadian),2.0,3.8,20,50.0,1.08,Moderate
+Conduct Disorder,Tier 3 (Moderate Circadian),0.9,3.6,20,50.0,1.02,Moderate
+Oppositional Defiant Disorder,Tier 3 (Moderate Circadian),1.4,3.4,20,50.0,0.98,Moderate
+Tourette Syndrome,Tier 3 (Moderate Circadian),0.77,3.2,20,50.0,0.92,Moderate
+Mild Cognitive Impairment,Tier 3 (Moderate Circadian),3.2,3.0,20,50.0,0.88,Moderate
+Fragile X Syndrome,Tier 3 (Moderate Circadian),0.02,2.8,20,50.0,0.84,Moderate
+Frontotemporal Dementia,Tier 3 (Moderate Circadian),0.01,2.6,20,45.0,0.82,Low
+Vascular Dementia,Tier 3 (Moderate Circadian),0.17,2.4,20,45.0,0.78,Low
+Lewy Body Dementia,Tier 3 (Moderate Circadian),0.05,2.2,20,45.0,0.74,Low
+Separation Anxiety Disorder,Tier 3 (Moderate Circadian),0.9,2.0,20,45.0,0.72,Low
+Dependent Personality Disorder,Tier 4 (Lower Circadian),0.49,1.8,20,40.0,0.68,Low
+Histrionic Personality Disorder,Tier 4 (Lower Circadian),1.84,1.6,20,40.0,0.64,Low
+Paranoid Personality Disorder,Tier 4 (Lower Circadian),2.36,1.4,20,40.0,0.62,Low
+Schizoid Personality Disorder,Tier 4 (Lower Circadian),0.85,1.2,20,40.0,0.58,Low
+Schizotypal Personality Disorder,Tier 4 (Lower Circadian),0.6,1.0,20,40.0,0.56,Low
+Intellectual Disability,Tier 4 (Lower Circadian),1.0,0.8,20,35.0,0.52,Low
+Alzheimer Disease,Tier 4 (Lower Circadian),1.6,0.6,20,35.0,0.48,Low
+Delirium,Tier 4 (Lower Circadian),0.4,0.4,20,30.0,0.44,Low
+Specific Phobias,Tier 4 (Lower Circadian),12.5,0.2,20,25.0,0.42,Low
+Selective Mutism,Tier 4 (Lower Circadian),0.03,0.1,20,20.0,0.38,Low
+Communication Disorders,Tier 4 (Lower Circadian),5.0,0.1,20,20.0,0.36,Low
+Motor Disorders,Tier 4 (Lower Circadian),0.5,0.1,20,20.0,0.34,Low
+Elimination Disorders,Tier 4 (Lower Circadian),1.5,0.1,20,20.0,0.32,Low
+Disruptive Impulse Control Disorders,Tier 4 (Lower Circadian),2.5,0.1,20,20.0,0.30,Low
+Somatic Symptom Disorders,Tier 4 (Lower Circadian),0.1,0.1,20,20.0,0.28,Low

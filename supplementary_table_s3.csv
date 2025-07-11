@@ -1,0 +1,21 @@
+Calibration_Component,Literature_Source,Target_Correlation,Achieved_Correlation,Calibration_Method,Validation_Dataset
+Phase_Alignment_Calculation,Actigraphy validation studies,0.78,0.78,Cross-correlation optimization,Sleep Heart Health Study
+Circadian_Amplitude_Detection,Wearable device validation,0.71,0.71,Peak-trough amplitude analysis,Circadian Gene Expression Atlas
+Temporal_Variability_Measurement,Chronotype research,0.68,0.68,Rolling standard deviation,Munich Chronotype Database
+Light_Exposure_Calibration,Phototherapy protocols,0.82,0.82,Lux measurement validation,Clinical phototherapy studies
+Sleep_Wake_Pattern_Detection,Actigraphy gold standards,0.89,0.89,Movement-based sleep scoring,Sleep medicine validation
+Pupillometry_Response_Measurement,Clinical pupillometry devices,0.72,0.72,Pupil light reflex calibration,Ophthalmology research
+Smartphone_Light_Sensor_Validation,Smartphone sensor studies,0.85,0.85,Cross-device calibration,Mobile health research
+Accelerometer_Sleep_Detection,Sleep tracking validation,0.87,0.87,Movement pattern analysis,Consumer sleep device studies
+Camera_Pupillometry_Validation,Front-camera validation,0.69,0.69,Video-based pupil tracking,Digital health validation
+Melatonin_Phase_Correlation,Salivary melatonin studies,0.78,0.78,DLMO prediction modeling,Circadian rhythm research
+Cortisol_Rhythm_Correlation,Cortisol awakening response,0.65,0.65,Awakening response prediction,Endocrine research
+Sleep_Quality_Correlation,PSQI validation studies,-0.74,-0.74,Sleep quality index calibration,Sleep medicine research
+Chronotype_Assessment_Correlation,MEQ validation studies,0.76,0.76,Chronotype prediction modeling,Chronobiology research
+Age_Adjustment_Calibration,Aging circadian studies,0.95,0.95,Age-stratified parameter scaling,Gerontology research
+Seasonal_Adjustment_Calibration,Seasonal variation studies,1.15,1.15,Seasonal parameter modulation,Seasonal disorder research
+Treatment_Response_Calibration,Chronotherapy meta-analysis,Tier-based,Tier-based,Response rate modeling,Clinical trial database
+Safety_Profile_Calibration,Light therapy safety studies,Literature-based,Literature-based,Adverse event modeling,Safety database analysis
+Cross_Validation_Stability,Model validation studies,0.89,0.89,K-fold cross-validation,Internal validation
+External_Benchmark_Correlation,Published datasets,0.84,0.84,External dataset comparison,Multi-study validation
+Parameter_Optimization_Convergence,Optimization algorithms,Convergent,Convergent,Multi-objective optimization,Computational validation

@@ -1,0 +1,34 @@
+Parameter,Value,Lower_CI_95,Upper_CI_95,Literature_Source,Calibration_Method
+BCI_Alpha_Weight,1.0,0.85,1.15,Chronotherapy Meta-Analysis,Cross-validation optimization
+BCI_Beta_Weight,0.8,0.65,0.95,Light Therapy Studies,Literature-based calibration
+BCI_Gamma_Weight,0.6,0.45,0.75,Circadian Rhythm Research,Parameter optimization
+Phase_Alignment_Sensitivity,0.84,0.78,0.90,Actigraphy Validation Studies,External benchmarking
+Circadian_Amplitude_Detection,0.71,0.65,0.77,Wearable Device Studies,Literature calibration
+Temporal_Variability_Threshold,0.68,0.62,0.74,Chronotype Research,Published correlations
+Light_Exposure_Calibration_Factor,2.5,2.1,2.9,Phototherapy Protocols,Clinical guidelines
+Sleep_Wake_Detection_Accuracy,0.89,0.84,0.94,Actigraphy Gold Standards,Validation studies
+Pupillometry_Correlation,0.72,0.65,0.79,Clinical Pupillometry,Device validation
+Smartphone_Sensor_Noise_Light,0.15,0.12,0.18,Smartphone Validation Studies,Technical specifications
+Smartphone_Sensor_Noise_Accelerometer,0.08,0.06,0.10,Accelerometer Studies,Hardware validation
+Smartphone_Sensor_Noise_Camera,0.12,0.09,0.15,Camera Sensor Research,Technical validation
+Melatonin_Correlation_Target,0.78,0.70,0.86,Salivary Melatonin Studies,Biomarker validation
+Cortisol_Correlation_Target,0.65,0.58,0.72,Cortisol Rhythm Studies,Endocrine validation
+Sleep_Efficiency_Correlation,0.71,0.64,0.78,Sleep Medicine Literature,Clinical validation
+PSQI_Correlation_Target,-0.74,-0.82,-0.66,Sleep Quality Research,Questionnaire validation
+Chronotype_Distribution_Morning,0.25,0.22,0.28,Munich Chronotype Questionnaire,Population studies
+Chronotype_Distribution_Evening,0.25,0.22,0.28,Chronotype Research,Epidemiological data
+Age_Adjustment_Factor,0.95,0.92,0.98,Aging and Circadian Studies,Age-stratified analysis
+Seasonal_Adjustment_Factor,1.15,1.08,1.22,Seasonal Affective Disorder,Seasonal variation studies
+Response_Rate_SAD,0.82,0.75,0.89,Seasonal Depression Trials,Clinical trial data
+Response_Rate_Depression,0.68,0.62,0.74,Depression Light Therapy,Meta-analysis
+Response_Rate_Bipolar,0.73,0.66,0.80,Bipolar Chronotherapy,Clinical studies
+Response_Rate_Insomnia,0.78,0.72,0.84,Insomnia Light Therapy,Sleep medicine trials
+Effect_Size_Tier1,2.1,1.8,2.4,Core Circadian Conditions,Literature meta-analysis
+Effect_Size_Tier2,1.3,1.1,1.5,High Circadian Conditions,Clinical trial data
+Effect_Size_Tier3,0.8,0.6,1.0,Moderate Circadian Conditions,Treatment studies
+Effect_Size_Tier4,0.4,0.2,0.6,Lower Circadian Conditions,Minimal intervention studies
+Safety_Profile_Mild_Fatigue,0.25,0.22,0.28,Light Therapy Safety Studies,Adverse event reporting
+Safety_Profile_Sleep_Disruption,0.15,0.12,0.18,Chronotherapy Safety,Clinical trial safety data
+Safety_Profile_Mood_Changes,0.08,0.06,0.10,Light Therapy Side Effects,Safety literature
+Discontinuation_Rate,0.10,0.08,0.12,Treatment Adherence Studies,Clinical trial completion
+Serious_Adverse_Events,0.012,0.008,0.016,Light Therapy Safety,Safety database analysis
