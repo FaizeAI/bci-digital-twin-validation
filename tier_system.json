@@ -1,0 +1,36 @@
+{
+  "Core Circadian": {
+    "conditions": [
+      "Seasonal Affective Disorder",
+      "Insomnia",
+      "Bipolar Disorder"
+    ],
+    "accuracy": 87.3,
+    "description": "Primary circadian dysfunction"
+  },
+  "High Circadian": {
+    "conditions": [
+      "ADHD",
+      "Autism Spectrum Disorder",
+      "PTSD"
+    ],
+    "accuracy": 76.5,
+    "description": "Substantial circadian involvement"
+  },
+  "Moderate Circadian": {
+    "conditions": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder"
+    ],
+    "accuracy": 65.2,
+    "description": "Moderate circadian effects"
+  },
+  "Lower Circadian": {
+    "conditions": [
+      "Specific Phobias",
+      "Intellectual Disability"
+    ],
+    "accuracy": 52.8,
+    "description": "Minimal circadian involvement"
+  }
+}

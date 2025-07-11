@@ -1,0 +1,13 @@
+{
+  "formula": "BCI(t) = \u03b1\u00b7\u03a6(t) + \u03b2\u00b7\u0394(t) - \u03b3\u00b7\u03a8(t)",
+  "parameters": {
+    "alpha": 1.0,
+    "beta": 0.8,
+    "gamma": 0.6
+  },
+  "components": {
+    "phase_alignment": "\u03a6(t) - Light exposure timing alignment",
+    "circadian_amplitude": "\u0394(t) - Daily rhythm amplitude",
+    "temporal_variability": "\u03a8(t) - Sleep-wake consistency"
+  }
+}

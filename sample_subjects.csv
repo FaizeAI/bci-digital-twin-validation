@@ -1,0 +1,21 @@
+subject_id,condition,tier,age,gender,chronotype
+1,Seasonal Affective Disorder,Core Circadian,25,Female,Morning
+2,Seasonal Affective Disorder,Core Circadian,25,Male,Evening
+3,Insomnia,Core Circadian,27,Female,Morning
+4,Insomnia,Core Circadian,27,Male,Evening
+5,Bipolar Disorder,Core Circadian,29,Female,Morning
+6,Bipolar Disorder,Core Circadian,29,Male,Evening
+7,Major Depressive Disorder,High Circadian,31,Female,Morning
+8,Major Depressive Disorder,High Circadian,31,Male,Evening
+9,Sleep Apnea,High Circadian,33,Female,Morning
+10,Sleep Apnea,High Circadian,33,Male,Evening
+11,ADHD,High Circadian,35,Female,Morning
+12,ADHD,High Circadian,35,Male,Evening
+13,Autism Spectrum Disorder,High Circadian,37,Female,Morning
+14,Autism Spectrum Disorder,High Circadian,37,Male,Evening
+15,PTSD,High Circadian,39,Female,Morning
+16,PTSD,High Circadian,39,Male,Evening
+17,Generalized Anxiety Disorder,High Circadian,41,Female,Morning
+18,Generalized Anxiety Disorder,High Circadian,41,Male,Evening
+19,Panic Disorder,High Circadian,43,Female,Morning
+20,Panic Disorder,High Circadian,43,Male,Evening
